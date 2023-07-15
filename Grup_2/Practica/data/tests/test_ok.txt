@@ -1,0 +1,12 @@
+void main ( ) {
+
+    int a;
+    a = 2;
+    int b = 10;
+    int d = a;
+    b = 3 + 8;
+    d = d - 1;
+    int c;
+    c = b + a;
+
+}

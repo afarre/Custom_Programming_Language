@@ -1,0 +1,11 @@
+void main ( ) {
+    int a = 2;
+    int b = a - 1;
+    int c;
+
+    if ( a > 9 ) {
+        a = 5 + c;
+    }
+
+    c = 10;
+}

@@ -1,0 +1,13 @@
+void main ( ) {
+
+    int a = 5;
+    int b;
+    b = 10 + a;
+    boolean c = false;
+
+    while ( b > a ) {
+        if ( b == 2 ) {
+            b = b / a;
+        }
+    }
+}

@@ -1,0 +1,16 @@
+void main ( ) {
+    int a = 2;
+    int b = a - 1;
+    boolean pim = false;
+
+    while ( a == 2 ) {
+        int c = 4;
+
+        if ( a > 1 ) {
+            a = 5 + c;
+            pim = true;
+        }
+
+        c = 10;
+    }
+}
